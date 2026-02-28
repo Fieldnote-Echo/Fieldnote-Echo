@@ -14,7 +14,7 @@ Building mathematical and governance frameworks that let AI systems adapt withou
 - [**DSC**](https://www.projectnavi.ai/dsc/) — Differential Symbolic Calculus for measuring creative regimes
 - [**WMC**](https://www.projectnavi.ai/wmc/) — World Model Capital for trust allocation in machine cognition
 - [**REO**](https://www.projectnavi.ai/reo/) — Relational Emergent Ontology as philosophical foundation
-- [**Schema Registry**](https://www.projectnavi.ai/schema/) — Versioned data models and canonical data contracts
+- [**Schema Registry**](https://schema.projectnavi.ai/) — Versioned data models and canonical data contracts
 
 **Enterprise:** [Navi Pro](https://www.projectnavi.ai/pro/) — Code intelligence and governance infrastructure
 
@@ -30,6 +30,6 @@ Published in *Psychiatric Rehabilitation Journal* (APA, 2024) on peer workforce 
 
 ---
 
-[projectnavi.ai](https://www.projectnavi.ai) · [Schema Registry](https://www.projectnavi.ai/schema/) · [nelson@projectnavi.ai](mailto:nelson@projectnavi.ai)
+[projectnavi.ai](https://www.projectnavi.ai) · [Schema Registry](https://schema.projectnavi.ai/) · [nelson@projectnavi.ai](mailto:nelson@projectnavi.ai)
 
 *Machine cognition, human values.*

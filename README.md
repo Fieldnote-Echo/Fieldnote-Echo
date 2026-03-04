@@ -1,35 +1,58 @@
-# Nelson Spence
+# Hey, I'm Nelson.
 
-**Founder & Principal Researcher, [Project Navi](https://www.projectnavi.ai)**
+I map failure patterns across complex systems and build the security boundaries required to stabilize them.
 
-Building mathematical and governance frameworks that let AI systems adapt without fracturing.
+I'm the founder of [Project Navi](https://github.com/Project-Navi) - an open-source AI security company focused on zero trust architecture and mathematical governance. Before that, I spent seven years in behavioral health research, coordinating peer-support programs across 500+ organizations and publishing on workforce collapse in the APA Psychiatric Rehabilitation Journal.
 
----
-
-### The Work
-
-[Project Navi](https://github.com/Project-Navi) provides navigation infrastructure for AI systems — the measurement frameworks and governance protocols that make coherent adaptation possible.
-
-**The Four Pillars:**
-- [**DSC**](https://www.projectnavi.ai/dsc/) — Differential Symbolic Calculus for measuring creative regimes
-- [**WMC**](https://www.projectnavi.ai/wmc/) — World Model Capital for trust allocation in machine cognition
-- [**REO**](https://www.projectnavi.ai/reo/) — Relational Emergent Ontology as philosophical foundation
-- [**Schema Registry**](https://schema.projectnavi.ai/) — Versioned data models and canonical data contracts
-
-**Enterprise:** [Navi Pro](https://www.projectnavi.ai/pro/) — Code intelligence and governance infrastructure
-
-### Background
-
-Published in *Psychiatric Rehabilitation Journal* (APA, 2024) on peer workforce retention. Managed $600K+ in federal (BJA) and corporate (Elevance Health) grants. 10+ years leading cross-system behavioral health programs.
-
-### Research Focus
-
-- Trajectory-based alignment for AI safety
-- Multi-stakeholder coordination measurement
-- Real-time coherence tracking during system transformation
+The through-line is failure analysis. The same structural breakdowns I studied in human systems - drift under pressure, coherence loss at scale, collapse when governance is bolted on instead of built in - show up in AI deployments. So I started building infrastructure to prevent them.
 
 ---
 
-[projectnavi.ai](https://www.projectnavi.ai) · [Schema Registry](https://schema.projectnavi.ai/) · [nelson@projectnavi.ai](mailto:nelson@projectnavi.ai)
+## What I'm Building
+
+### [navi-sanitize](https://github.com/Project-Navi/navi-sanitize)
+Deterministic input sanitization for untrusted text in LLM pipelines. Strips homoglyphs, invisible Unicode, null bytes, template injection, and path traversal vectors. Zero dependencies. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-sanitize/).
+
+### [grippy](https://github.com/Project-Navi/grippy-code-review)
+AI-powered PR review agent with a deterministic security rule engine. Indexes your codebase into a knowledge graph for context-aware analysis. Runs security rules before the model touches the diff. Structured findings, severity scores, pass/fail verdicts. Works with any model.
+
+### [navi-bootstrap](https://github.com/Project-Navi/navi-bootstrap)
+Spec-driven repo scaffolding that ships CI, security scanning, code review, and release pipelines in a single command. Jinja2 engine with 7 template packs. Define your standards once, apply them everywhere.
+
+### navi-fractal *(coming soon)*
+Audit-grade fractal dimension estimator with refusal semantics. Refuses to emit data without mathematically verified scaling regimes.
+
+---
+
+## Open Source Contributions
+
+- Disclosed a CVSS 9.1 security vulnerability to [OpenHands](https://github.com/All-Hands-AI/OpenHands) - PR merged to main
+- Contributed to the [OpenSSF Scorecard](https://github.com/ossf/scorecard) project
+- Submitted responses to NIST and NCCoE on AI agent identity, authorization, and adversarial prompt detection ([Zenodo](https://zenodo.org/records/18764051))
+
+---
+
+## The Deeper Framework
+
+The tools are the entry point. Underneath them is a mathematical governance framework built on three foundations:
+
+**Differential Symbolic Calculus (DSC)** - Measurement framework for detecting coherence-exploration coupling in dynamical systems. Instrumentation, not simulation.
+
+**World Model Capital (WMC)** - Trust-allocation system adapting Recovery Capital frameworks from behavioral health to AI governance. Trust capital for machine cognition.
+
+**Relational Emergent Ontology (REO)** - Philosophical foundation where intelligence is event, identity is rhythm, ethics is resonance.
+
+You don't need to understand any of this to use the tools. But if you're curious - I started here because the principles that help people recover help systems stay whole.
+
+---
+
+## Get In Touch
+
+- Security: [security@projectnavi.ai](mailto:security@projectnavi.ai)
+- Licensing: [legal@projectnavi.ai](mailto:legal@projectnavi.ai)
+- PGP: [`/.well-known/pgp-key.txt`](https://www.projectnavi.ai/.well-known/pgp-key.txt) (fingerprint: `402E C296 1A72 CBFF 63B8 FEE9 A42A 76A1 C696 FF08`)
+- Sponsor my work: [GitHub Sponsors](https://github.com/sponsors/Fieldnote-Echo)
+
+---
 
 *Machine cognition, human values.*

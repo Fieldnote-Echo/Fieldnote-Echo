@@ -53,6 +53,8 @@ You don't need to understand any of this to use the tools. But if you're curious
 - PGP: [`/.well-known/pgp-key.txt`](https://www.projectnavi.ai/.well-known/pgp-key.txt) (fingerprint: `402E C296 1A72 CBFF 63B8 FEE9 A42A 76A1 C696 FF08`)
 - Sponsor my work: [GitHub Sponsors](https://github.com/sponsors/Fieldnote-Echo)
 
+> *The knowledge is free, the community is open. If you wish to support our mission, [buy a t-shirt](https://projectnavi.printful.me/).* 🐘
+
 ---
 
 *Machine cognition, human values.*

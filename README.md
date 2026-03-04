@@ -17,7 +17,7 @@ Deterministic input sanitization for untrusted text in LLM pipelines. Strips hom
 AI-powered PR review agent with a deterministic security rule engine. Indexes your codebase into a knowledge graph for context-aware analysis. Runs security rules before the model touches the diff. Structured findings, severity scores, pass/fail verdicts. Works with any model.
 
 ### [navi-bootstrap](https://github.com/Project-Navi/navi-bootstrap)
-Spec-driven repo scaffolding that ships CI, security scanning, code review, and release pipelines in a single command. Jinja2 engine with 7 template packs. Define your standards once, apply them everywhere.
+Spec-driven repo scaffolding that ships CI, security scanning, code review, and release pipelines in a single command. Jinja2 engine with 7 template packs. Define your standards once, apply them everywhere. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-bootstrap/).
 
 ### navi-fractal *(coming soon)*
 Audit-grade fractal dimension estimator with refusal semantics. Refuses to emit data without mathematically verified scaling regimes.

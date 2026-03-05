@@ -10,6 +10,9 @@ The through-line is failure analysis. The same structural breakdowns I studied i
 
 ## What I'm Building
 
+### [cd-formalization](https://github.com/Project-Navi/cd-formalization) (Private, Open-Sourcing Soon)
+Formal verification of existence theory for nonlinear elliptic boundary value problems on compact Riemannian manifolds. Written in **Lean 4**. I architected strict `PDEInfra` typeclass boundaries around missing Mathlib infrastructure and utilized **Harmonic's Aristotle** to successfully synthesize the algebraic core proofs, demonstrating a working paradigm for AI-assisted frontier formalization.
+
 ### [navi-sanitize](https://github.com/Project-Navi/navi-sanitize)
 Deterministic input sanitization for untrusted text in LLM pipelines. Strips homoglyphs, invisible Unicode, null bytes, template injection, and path traversal vectors. Zero dependencies. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-sanitize/).
 
@@ -26,9 +29,10 @@ Audit-grade fractal dimension estimator with refusal semantics. Refuses to emit 
 
 ## Open Source Contributions
 
-- Disclosed a CVSS 9.1 security vulnerability to [OpenHands](https://github.com/All-Hands-AI/OpenHands) - PR merged to main
-- Contributed to the [OpenSSF Scorecard](https://github.com/ossf/scorecard) project
-- Submitted responses to NIST and NCCoE on AI agent identity, authorization, and adversarial prompt detection ([Zenodo](https://zenodo.org/records/18764051))
+![OpenHands Contributor](https://img.shields.io/badge/OpenHands-Contributor-blue?logo=github)
+* **OpenHands (All-Hands AI):** Disclosed a CVSS 9.1 security vulnerability; wrote and merged the fix into `main`.
+* **OpenSSF Scorecard:** Contributed to supply-chain security metrics (PR awaiting review).
+* **NIST and NCCoE:** Submitted responses on AI agent identity, authorization, and adversarial prompt detection ([Zenodo](https://zenodo.org/records/18764051)).
 
 ---
 

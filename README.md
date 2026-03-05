@@ -10,20 +10,20 @@ The through-line is failure analysis. The same structural breakdowns I studied i
 
 ## What I'm Building
 
-### [cd-formalization](https://github.com/Project-Navi/cd-formalization) (Private, Open-Sourcing Soon)
+### [cd-formalization](https://github.com/Project-Navi/cd-formalization)
 Formal verification of existence theory for nonlinear elliptic boundary value problems on compact Riemannian manifolds. Written in **Lean 4**. I architected strict `PDEInfra` typeclass boundaries around missing Mathlib infrastructure and utilized **Harmonic's Aristotle** to successfully synthesize the algebraic core proofs, demonstrating a working paradigm for AI-assisted frontier formalization.
 
 ### [navi-sanitize](https://github.com/Project-Navi/navi-sanitize)
-Deterministic input sanitization for untrusted text in LLM pipelines. Strips homoglyphs, invisible Unicode, null bytes, template injection, and path traversal vectors. Zero dependencies. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-sanitize/).
+Deterministic **input sanitization for untrusted text** in LLM pipelines. Strips homoglyphs, invisible Unicode, null bytes, template injection, and path traversal vectors. **Zero dependencies**. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-sanitize/).
 
 ### [grippy](https://github.com/Project-Navi/grippy-code-review)
-AI-powered PR review agent with a deterministic security rule engine. Indexes your codebase into a knowledge graph for context-aware analysis. Runs security rules before the model touches the diff. Structured findings, severity scores, pass/fail verdicts. Works with any model.
+AI-powered PR review agent with a **deterministic security rule engine**. Indexes your codebase into a **knowledge graph** for context-aware analysis. Runs security rules before the model touches the diff. Structured findings, severity scores, pass/fail verdicts. Works with any model.
 
 ### [navi-bootstrap](https://github.com/Project-Navi/navi-bootstrap)
-Spec-driven repo scaffolding that ships CI, security scanning, code review, and release pipelines in a single command. Jinja2 engine with 7 template packs. Define your standards once, apply them everywhere. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-bootstrap/).
+Spec-driven repo scaffolding that ships CI, security scanning, code review, and release pipelines in a single command. Jinja2 engine with 7 template packs. **Define your standards once, apply them everywhere**. Python 3.12+. Live on [PyPI](https://pypi.org/project/navi-bootstrap/).
 
 ### navi-fractal *(coming soon)*
-Audit-grade fractal dimension estimator with refusal semantics. Refuses to emit data without mathematically verified scaling regimes.
+Audit-grade **fractal dimension estimator** with refusal semantics. Refuses to emit data without mathematically verified scaling regimes.
 
 ---
 

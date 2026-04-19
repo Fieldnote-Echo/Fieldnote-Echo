@@ -1,5 +1,9 @@
 # Hey, I'm Nelson.
 
+[![OpenHands - Contributor](https://img.shields.io/badge/OpenHands-Contributor-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenHands/OpenHands/pulls?q=is%3Apr+author%3AFieldnote-Echo+is%3Amerged)
+[![Software Agent SDK - Contributor](https://img.shields.io/badge/Agent_SDK-Contributor-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenHands/software-agent-sdk/pulls?q=is%3Apr+author%3AFieldnote-Echo+is%3Amerged)
+[![Mathlib - Contributor](https://img.shields.io/badge/Mathlib-Contributor-50237C?style=for-the-badge&logo=lean&logoColor=white)](https://github.com/leanprover-community/mathlib4/pulls?q=is%3Apr+author%3AFieldnote-Echo+is%3Aclosed+label%3Aready-to-merge)
+
 I map failure patterns across complex systems and build the security boundaries required to stabilize them.
 
 I'm the founder of [Project Navi](https://github.com/Project-Navi) - an open-source AI security company focused on zero trust architecture and mathematical governance. Before that, I spent seven years in behavioral health research, coordinating peer-support programs across 500+ organizations and publishing on workforce collapse in the APA Psychiatric Rehabilitation Journal.
@@ -32,9 +36,8 @@ Audit-grade **fractal dimension estimator** for complex networks with refusal se
 
 ## Open Source Contributions
 
-![OpenHands Contributor](https://img.shields.io/badge/OpenHands-Contributor-blue?logo=github)
-* **OpenHands (All-Hands AI):** Disclosed a CVSS 9.1 security vulnerability; wrote and merged the fix into `main`.
-* **OpenSSF Scorecard:** Contributed to supply-chain security metrics (PR awaiting review).
+* **OpenHands:** Disclosed a CVSS 9.1 security vulnerability; wrote and merged the fix into `main`. Contributed defense-in-depth SecurityAnalyzer ensemble.
+* **Mathlib:** Contributed SimpleGraph.ball (open metric ball).
 * **NIST and NCCoE:** Submitted responses on AI agent identity, authorization, and adversarial prompt detection ([Zenodo](https://zenodo.org/records/18764051)).
 
 ---
